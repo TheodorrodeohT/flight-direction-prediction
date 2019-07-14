@@ -7,4 +7,4 @@
 
 • **aita_img/** -- папка со сгенерированными в ходе вычислений изображениями
 
-• **aita-fligh-direction-prediction-resentation** -- презентация проекта ([ссылка на google.slides](https://docs.google.com/presentation/d/1-W2MzsPQUOIEVItZgfY9aaaB2WgcB_yGQu747aZXQ38/edit?usp=sharing))
+• **aita-fligh-direction-prediction-presentation** -- презентация проекта ([ссылка на google.slides](https://docs.google.com/presentation/d/1-W2MzsPQUOIEVItZgfY9aaaB2WgcB_yGQu747aZXQ38/edit?usp=sharing))
